@@ -1,0 +1,14 @@
+C:\Users\andre\Documents\csharpapps\andrewappel_mastermind\bin\Debug\net9.0\AndrewAppel_mastermind.exe
+C:\Users\andre\Documents\csharpapps\andrewappel_mastermind\bin\Debug\net9.0\AndrewAppel_mastermind.deps.json
+C:\Users\andre\Documents\csharpapps\andrewappel_mastermind\bin\Debug\net9.0\AndrewAppel_mastermind.runtimeconfig.json
+C:\Users\andre\Documents\csharpapps\andrewappel_mastermind\bin\Debug\net9.0\AndrewAppel_mastermind.dll
+C:\Users\andre\Documents\csharpapps\andrewappel_mastermind\bin\Debug\net9.0\AndrewAppel_mastermind.pdb
+C:\Users\andre\Documents\csharpapps\andrewappel_mastermind\obj\Debug\net9.0\AndrewAppel_mastermind.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Documents\csharpapps\andrewappel_mastermind\obj\Debug\net9.0\AndrewAppel_mastermind.AssemblyInfoInputs.cache
+C:\Users\andre\Documents\csharpapps\andrewappel_mastermind\obj\Debug\net9.0\AndrewAppel_mastermind.AssemblyInfo.cs
+C:\Users\andre\Documents\csharpapps\andrewappel_mastermind\obj\Debug\net9.0\AndrewAppel_mastermind.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\csharpapps\andrewappel_mastermind\obj\Debug\net9.0\AndrewAppel_mastermind.dll
+C:\Users\andre\Documents\csharpapps\andrewappel_mastermind\obj\Debug\net9.0\refint\AndrewAppel_mastermind.dll
+C:\Users\andre\Documents\csharpapps\andrewappel_mastermind\obj\Debug\net9.0\AndrewAppel_mastermind.pdb
+C:\Users\andre\Documents\csharpapps\andrewappel_mastermind\obj\Debug\net9.0\AndrewAppel_mastermind.genruntimeconfig.cache
+C:\Users\andre\Documents\csharpapps\andrewappel_mastermind\obj\Debug\net9.0\ref\AndrewAppel_mastermind.dll
